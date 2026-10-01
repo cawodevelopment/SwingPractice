@@ -19,7 +19,7 @@ public class SwingClass {
         JPanel inputPanel = new JPanel();
 
         //Result Panel objects
-        JLabel result = new JLabel("This is the result");
+        JLabel result = new JLabel("");
 
         resultPanel.add(result);
 
